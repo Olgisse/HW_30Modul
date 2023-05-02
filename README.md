@@ -1,5 +1,5 @@
 # HW_30Modul_Selenium_Petfriends
-Задание 30.3.1
+Задание 30.3.1 +30.5.1
 
 Написать тест, который проверяет, что на странице https://petfriends.skillfactory.ru/login со списком питомцев пользователя:
 
